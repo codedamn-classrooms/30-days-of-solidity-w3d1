@@ -1,2 +1,2 @@
-tabs: ['Day1.sol','']
+tabs: ['contracts/Day1.sol']
 terminals: ['yarn install']
